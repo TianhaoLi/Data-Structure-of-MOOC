@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <BrowseTracker_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="Generalized List.c" open="1" top="1" tabpos="0">
-		<Cursor position="0" topLine="0" />
-		<BrowseMarks positions="59,43,57" />
-		<Book_Marks positions="" />
-	</File>
-	<File name="Linear List of Sequential Storage.c" open="1" top="0" tabpos="0">
-		<Cursor position="0" topLine="0" />
+	<File name="Linear List of Sequential Storage.c" open="1" top="0" tabpos="4">
+		<Cursor position="188" topLine="0" />
 		<BrowseMarks positions="58,186" />
 		<Book_Marks positions="" />
 	</File>
-	<File name="Linear List of Linked Storage.c" open="1" top="0" tabpos="0">
-		<Cursor position="0" topLine="0" />
-		<BrowseMarks positions="871,1279,1424,1417,1354,1339,1503,1677,1675,1135,1258,1287,1290" />
+	<File name="Generalized List.c" open="1" top="0" tabpos="6">
+		<Cursor position="46" topLine="0" />
+		<BrowseMarks positions="18,48" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="Linear List of Linked Storage.c" open="1" top="1" tabpos="5">
+		<Cursor position="179" topLine="0" />
+		<BrowseMarks positions="830,1135,1240,1260,1282,1289,1326,1341,1392,1498,1670" />
 		<Book_Marks positions="671" />
 	</File>
 </BrowseTracker_layout_file>
