@@ -26,12 +26,12 @@ ElementType DeleteQ( Queue Q )
         return ERROR;
     }
     else {
-        FrontCell = Q->Front;
+        FrontCell = Q->Front;//保存现场
         if ( Q->Front == Q->Rear ) /* 若队列只有一个元素 */
             Q->Front = Q->Rear = NULL; /* 删除后队列置为空 */
         else
-            Q->Front = Q->Front->Next;
-        FrontElem = FrontCell->Data;
+            Q->Front = Q->Front->Next;//删除头
+        FrontElem = FrontCell->Data;//从现场中获取被删的数值
 
         free( FrontCell );  /* 释放被删除结点空间  */
         return  FrontElem;
