@@ -1,11 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
 typedef struct LNode *List;
 struct LNode{
     ElementType Data;
     List Next;
-};
+};  
 struct Lnode L;
 List PtrL;
 

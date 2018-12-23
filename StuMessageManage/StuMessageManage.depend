@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545465281 source:c:\users\39072\onedrive\c\stumessagemanage\student.c
+	<stdio.h>
+	<stdlib.h>
+
+1545533024 source:c:\users\39072\onedrive\c\stumessagemanage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
